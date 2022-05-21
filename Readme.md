@@ -3,7 +3,7 @@ Small extension to OrbitControls to allow for offsetting the target position on 
 This is useful for zooming and rotating around an arbitrary point on the screen to create.
 It also allows for panning around without changing the target position.
 
-
+Live Demo: [https://repalash.com/OffsetOrbitControls/](https://repalash.com/OffsetOrbitControls/)  
 
 To use replace `OrbitControls` with `OffsetOrbitControls` and call `controls.update()` in the render loop. see `index.html`
 
