@@ -1,6 +1,6 @@
 # OffsetOrbitControls
 Small extension to OrbitControls to allow for offsetting the target position on screen. 
-This is useful for zooming and rotating around an arbitrary point on the screen to create.
+This is useful for zooming and rotating around an arbitrary point on the screen to create model viewers with offset on screen.
 It also allows for panning around without changing the target position.
 
 Live Demo: [https://repalash.com/OffsetOrbitControls/](https://repalash.com/OffsetOrbitControls/)  
